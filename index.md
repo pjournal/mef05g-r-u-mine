@@ -9,3 +9,5 @@
 ### [Week 4 - Izmir Fish Market Shiny App]( https://r-u-mine.shinyapps.io/week_4_fish_market_apps/) 
 
 ### [Preprocessed Data](preprocessed_rawdata.html)
+
+### [Exploratory Data Analysis](EDA.html)
