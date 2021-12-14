@@ -30,3 +30,5 @@ This dataset is about tourism statistics provided by EVDS. It includes three dif
 
 #### - [Shiny App](https://r-u-mine.shinyapps.io/tourism_app/)
 To run this app from a Shiny application  ->  shiny::runGitHub("pjournal/mef05g-r-u-mine",subdir="Tourism_Statistics/", ref = "gh-pages")
+
+#### - [Medium Blog Post](https://medium.com/@minekara95/exploratory-data-analysis-of-turkeys-tourism-statistics-in-r-6a732f9dfd25)
