@@ -26,9 +26,7 @@ This dataset is about tourism statistics provided by EVDS. It includes three dif
 
 #### - [Exploratory Data Analysis](EDA.html)
 
-#### - [Final Report](EDA.html)
-
-#### - [Presentation](EDA.html)
+#### - [Final Report](EDA_FinalReport.html)
 
 #### - [Shiny App](https://r-u-mine.shinyapps.io/tourism_app/)
 To run this app from a Shiny application  ->  shiny::runGitHub("pjournal/mef05g-r-u-mine",subdir="Tourism_Statistics/", ref = "gh-pages")
