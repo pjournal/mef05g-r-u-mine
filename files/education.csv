@@ -1,0 +1,110 @@
+﻿OKUL,KATEGORI,ENGEL_DURUMU,EGITIM_TURU,YAPI,MEB_BAGLI,TOPLAM_OKUL_KURUM,TOPLAM_OGRENCI,ERKEK_OGRENCI,KADIN_OGRENCI,TOPLAM_OGRETMEN,ERKEK_OGRETMEN,KADIN_OGRETMEN,TOPLAM_DERSLIK
+Anaokulları,OKUL ONCESI,,GENEL,,EVET,2894,305346,158648,146698,24480,2852,21628,14435
+Anasınıfları,OKUL ONCESI,,GENEL,,EVET,19226,648866,335011,313855,39306,2408,36898,29834
+Yaz anaokulları                                                                                         ,OKUL ONCESI,,GENEL,,EVET,0,24362,12701,11661,0,0,0,0
+Gezici sınıf,OKUL ONCESI,,GENEL,,EVET,0,85,40,45,0,0,0,0
+657 Sayılı Kan.191.mad.göre açılan kurumlar                                                                  ,OKUL ONCESI,,GENEL,,HAYIR,86,3584,1879,1705,546,8,538,433
+Toplum Temelli Kurumlar,OKUL ONCESI,,GENEL,,HAYIR,2252,50220,24980,25240,8095,14,8081,5855
+Türk                                                                                                                             ,OKUL ONCESI,,GENEL,TURK,EVET,3872,117982,63481,54501,11770,611,11159,20520
+Azınlık                                                                                      ,OKUL ONCESI,,GENEL,AZINLIK,EVET,4,141,67,74,23,0,23,19
+Türk                                                                                                                              ,OKUL ONCESI,,GENEL,TURK,EVET,1158,32369,17081,15288,3185,30,3155,4244
+Azınlık                                                                                      ,OKUL ONCESI,,GENEL,AZINLIK,EVET,41,964,514,450,93,5,88,178
+Yabancı                                                                            ,OKUL ONCESI,,GENEL,YABANCI,EVET,1,29,11,18,4,0,4,4
+Yaz anaokulları                                                                                          ,OKUL ONCESI,,GENEL,,EVET,0,5407,2895,2512,0,0,0,0
+Aile ve Sosyal Hizmetler Bakanlığına Bağlı Kreş ve Bakımevleri,OKUL ONCESI,,GENEL,,HAYIR,1442,36562,20093,16469,7536,154,7382,6864
+İş Kanununa Göre İşletmelerde Açılan Kreşler,OKUL ONCESI,,GENEL,,HAYIR,2,64,34,30,11,0,11,8
+İlkokul                                                                                                     ,ILKOKUL,,GENEL,,EVET,22087,5046246,2596532,2449714,270443,102287,168156,228872
+İlkokul (İşitme Engelliler)                                                                                        ,ILKOKUL,ISITME,GENEL,,EVET,31,653,387,266,212,81,131,288
+İlkokul (Görme Engelliler)                                                            ,ILKOKUL,GORME,GENEL,,EVET,18,469,266,203,186,71,115,128
+İlkokul (Bedensel Engelliler)                                                                  ,ILKOKUL,BEDENSEL,GENEL,,EVET,2,234,135,99,38,4,34,53
+İlkokul (Hafif Düzeyde Zihinsel Engelliler)                                                                                                ,ILKOKUL,ZIHINSEL,GENEL,,EVET,33,782,511,271,211,69,142,245
+Özel Eğitim Uygulama Okulu (I. Kademe)                                                                                                                                         ,ILKOKUL,KADEME1,GENEL,,EVET,351,10650,7083,3567,2562,1081,1481,3784
+Müzik ve Bale İlkokulu (Konservatuar)                                                      ,ILKOKUL,,GENEL,,EVET,5,45,12,33,0,0,0,0
+Özel Türk İlkokulu                                                                     ,ILKOKUL,,GENEL,TURK,EVET,1929,260665,135903,124762,31856,6124,25732,29310
+Özel Özel Eğitim İlkokulu                                                                                ,ILKOKUL,,GENEL,,EVET,16,48,31,17,247,51,196,254
+Özel Milletlerarası İlkokulu                                                                                      ,ILKOKUL,,GENEL,MILLETLERARASI,EVET,80,7491,3926,3565,893,348,545,1641
+Özel Azınlık İlkokulu                                                       ,ILKOKUL,,GENEL,AZINLIK,EVET,23,1099,559,540,279,44,235,159
+Özel Yabancı İlkokulu                                                                                           ,ILKOKUL,,GENEL,YABANCI,EVET,1,9,5,4,10,0,10,6
+Ortaokul  ,ORTAOKUL,,GENEL,,EVET,12513,3987764,2066028,1921736,274336,115660,158676,135092
+Yatılı Bölge Ortaokulu,ORTAOKUL,,GENEL,,EVET,286,57050,29702,27348,5540,3087,2453,4611
+İmam Hatip Ortaokulu,ORTAOKUL,,DINI,,EVET,2758,591332,286641,304691,47279,20280,26999,26423
+İmam Hatip Lisesi Bünyesinde İmam Hatip Ortaokulu,ORTAOKUL,,DINI,,EVET,669,122965,51793,71172,0,0,0,0
+Ortaokul (İşitme Engelliler) ,ORTAOKUL,ISITME,GENEL,,EVET,31,881,533,348,467,255,212,218
+Ortaokul (Görme Engelliler)                                               ,ORTAOKUL,GORME,GENEL,,EVET,18,585,339,246,306,175,131,280
+Ortaokul (Bedensel Engelliler)                                              ,ORTAOKUL,BEDENSEL,GENEL,,EVET,2,220,121,99,42,7,35,0
+Ortaokul (Hafif Düzeyde Zihinsel Engelliler)                                                                                                       ,ORTAOKUL,ZIHINSEL,GENEL,,EVET,39,1271,810,461,519,215,304,77
+"Özel Eğitim Uygulama Okulu 
+(II. Kademe)                                                 ",ORTAOKUL,KADEME2,GENEL,,EVET,350,9639,6194,3445,2983,1343,1640,644
+Araştırma Geliştirme Eğitim ve Uygulama Merkezi Ortaokulu0Özel Yetenek,ORTAOKUL,OZEL_YETENEK,GENEL,,EVET,1,146,85,61,10,6,4,0
+Müzik ve Bale Ortaokulu (Konservatuar)                                                 ,ORTAOKUL,,GENEL,,EVET,14,872,283,589,0,0,0,34
+Açıköğretim Ortaokulu ,ORTAOKUL,,GENEL,,EVET,1,128433,45527,82906,0,0,0,0
+Özel Türk Ortaokulu                                                                        ,ORTAOKUL,,GENEL,TURK,EVET,2237,308756,164205,144551,38727,11967,26760,28422
+Özel Özel Eğitim Ortaokulu                                                                          ,ORTAOKUL,,GENEL,,EVET,7,35,19,16,14,4,10,42
+Özel Milletlerarası Ortaokulu                                                          ,ORTAOKUL,,GENEL,MILLETLERARASI,EVET,79,2015,1049,966,318,139,179,609
+Özel Azınlık Ortaokulu                                                                                ,ORTAOKUL,,GENEL,AZINLIK,EVET,20,1005,490,515,257,67,190,82
+Anadolu Lisesi,ORTAOGRETIM,,GENEL,,EVET,2871,1918641,859181,1059460,111862,54578,57284,60086
+Fen Lisesi,ORTAOGRETIM,,GENEL,,EVET,322,134630,65042,69588,8396,5505,2891,5802
+Sosyal Bilimler Lisesi,ORTAOGRETIM,,GENEL,,EVET,92,42965,14765,28200,2697,1570,1127,1812
+Güzel Sanatlar Lisesi,ORTAOGRETIM,,GENEL,,EVET,94,18183,6827,11356,2637,1402,1235,1082
+Spor Lisesi,ORTAOGRETIM,,GENEL,,EVET,89,22624,16020,6604,1559,962,597,1069
+"Çok Programlı Anadolu Lisesi 
+(Genel Ortaoğretim Programı)",ORTAOGRETIM,,GENEL,,EVET,0,119161,59325,59836,0,0,0,0
+Müzik ve Sahne Sanatları Lisesi                                                                      ,ORTAOGRETIM,,GENEL,,EVET,14,775,239,536,0,0,0,51
+Açıköğretim Lisesi                                                                                                                                      ,ORTAOGRETIM,,GENEL,,EVET,1,1254420,672455,581965,0,0,0,0
+Özel Akşam Lisesi ,ORTAOGRETIM,,GENEL,,EVET,110,22176,18333,3843,1432,621,811,1389
+Özel Anadolu Güzel Sanatlar Lisesi,ORTAOGRETIM,,GENEL,,EVET,7,751,237,514,106,36,70,86
+Özel Anadolu Lisesi,ORTAOGRETIM,,GENEL,,EVET,2203,277367,148071,129296,40943,16622,24321,30339
+Özel Hazırlık Sınıfı Bulunan Fen Lisesi ,ORTAOGRETIM,,GENEL,,EVET,2,154,86,68,34,13,21,20
+Özel Fen Lisesi ,ORTAOGRETIM,,GENEL,,EVET,762,56365,28276,28089,12277,5591,6686,5772
+Özel Fen ve Teknoloji Lisesi ,ORTAOGRETIM,,GENEL,,EVET,70,5391,3036,2355,1192,502,690,467
+Özel Hazırlık Sınıfı Bulunan Anadolu Lisesi ,ORTAOGRETIM,,GENEL,,EVET,125,35103,17419,17684,4670,1626,3044,2564
+Özel Laboratuvar Lisesi ,ORTAOGRETIM,,GENEL,,EVET,2,507,250,257,86,36,50,49
+Özel Sosyal Bilimler Lisesi ,ORTAOGRETIM,,GENEL,,EVET,1,43,28,15,32,11,21,8
+Özel Milletlerarası Okul (Lise),ORTAOGRETIM,,GENEL,MILLETLERARASI,EVET,88,2823,1706,1117,300,149,151,731
+Özel Ermeni Ortaöğretim Kurumu,ORTAOGRETIM,,GENEL,YABANCI,EVET,5,709,340,369,138,46,92,59
+Özel Musevi Ortaöğretim Kurumu,ORTAOGRETIM,,GENEL,YABANCI,EVET,1,158,77,81,31,14,17,14
+Özel Rum Ortaöğretim Kurumu,ORTAOGRETIM,,GENEL,YABANCI,EVET,5,70,31,39,49,24,25,42
+Özel Spor Lisesi,ORTAOGRETIM,,GENEL,YABANCI,EVET,1,36,27,9,13,4,9,0
+Özel Alman Ortaöğretim Kurumu,ORTAOGRETIM,,GENEL,YABANCI,EVET,1,641,405,236,75,26,49,34
+Özel Amerikan Ortaöğretim Kurumu,ORTAOGRETIM,,GENEL,YABANCI,EVET,1,1041,523,518,120,49,71,49
+Özel Avusturya Ortaöğretim Kurumu,ORTAOGRETIM,,GENEL,YABANCI,EVET,1,495,295,200,57,25,32,31
+Özel Fransız Ortaöğretim Kurumu,ORTAOGRETIM,,GENEL,YABANCI,EVET,6,4107,1712,2395,415,131,284,192
+Özel İtalyan Ortaöğretim Kurumu,ORTAOGRETIM,,GENEL,YABANCI,EVET,2,747,297,450,72,30,42,35
+"Çok Programlı Anadolu Lisesi 
+(Mesleki ve Teknik Anadolu Programı)",ORTAOGRETIM,,MESLEK,,EVET,741,76832,45488,31344,16583,7949,8634,10330
+Mesleki Eğitim Merkezi,ORTAOGRETIM,,MESLEK,,EVET,346,159773,131371,28402,5882,4304,1578,2234
+Mesleki ve Teknik Anadolu Lisesi,ORTAOGRETIM,,MESLEK,,EVET,2446,1235038,748429,486609,104332,53261,51071,49228
+Mesleki Açıköğretim Lisesi,ORTAOGRETIM,,MESLEK,,EVET,1,105969,68994,36975,0,0,0,0
+Araştırma Geliştirme Eğitim ve Uygulama Merkezi,ORTAOGRETIM,,MESLEK,,EVET,1,136,82,54,13,8,5,23
+"Özel Eğitim Meslek Lisesi 
+(İşitme Engelliler)",ORTAOGRETIM,ISITME,MESLEK,,EVET,20,1222,746,476,487,268,219,266
+"Özel Eğitim Meslek Lisesi 
+(Bedensel Engelliler)",ORTAOGRETIM,BEDENSEL,MESLEK,,EVET,1,77,49,28,32,14,18,25
+"Özel Eğitim Meslek Okulu 
+(Görme Engelliler0III. Kademe)                                                                                                                ",ORTAOGRETIM,GORME,MESLEK,,EVET,2,27,22,5,16,8,8,0
+"Özel Eğitim Uygulama Okulu 
+(III. Kademe) ",ORTAOGRETIM,KADEME3,MESLEK,,EVET,287,12069,7764,4305,3863,1765,2098,1985
+"Özel Eğitim Meslek Okulu
+(Zihinsel Engelliler0III. Kademe)                                                                                                               ",ORTAOGRETIM,ZIHINSEL,MESLEK,,EVET,182,13133,8317,4816,3401,1567,1834,1506
+Özel Eğitim Uygulama Okulu (III.Kademe)                                                                                             ,ORTAOGRETIM,KADEME3,MESLEK,,EVET,2,17,14,3,58,10,48,87
+Özel Mesleki Eğitim Merkezi,ORTAOGRETIM,,MESLEK,,EVET,2,0,0,0,3,2,1,9
+Özel Eğitim Meslek Okulu (III.Kademe),ORTAOGRETIM,KADEME3,MESLEK,,EVET,2,10,5,5,26,5,21,48
+Özel Mesleki ve Teknik Anadolu Lisesi,ORTAOGRETIM,,MESLEK,,EVET,390,127253,92218,35035,8145,3475,4670,8788
+Anadolu İmam Hatip Lisesi,ORTAOGRETIM,,DINI,,EVET,1656,567012,253492,313520,49692,24100,25592,36244
+"Anadolu İmam Hatip Lisesi 
+(Yabancı Uyruklular)",ORTAOGRETIM,,DINI,YABANCI,EVET,16,1167,925,242,383,216,167,417
+"Çok Programlı Anadolu Lisesi 
+(Anadolu İmam Hatip Programı)",ORTAOGRETIM,,DINI,,EVET,0,6842,4027,2815,0,0,0,0
+Açıköğretim İmam Hatip Lisesi,ORTAOGRETIM,,DINI,,EVET,1,91942,39055,52887,0,0,0,0
+Mesleki Eğitim Merkezi,YAYGIN EGITIM,,MESLEK,,EVET,0,165415,131686,33729,0,0,0,0
+Kız Teknik Olgunlaşma Enstitüsü,YAYGIN EGITIM,,MESLEK,,EVET,24,1766,68,1698,473,66,407,92
+Halk Eğitim Merkezi,YAYGIN EGITIM,,MESLEK,,EVET,997,6523929,2491449,4032480,8591,3949,4642,5537
+Bilim ve Sanat Merkezi (Üstün veya Özel Yetenekliler),YAYGIN EGITIM,OZEL_YETENEK,MESLEK,,EVET,192,57122,28683,28439,2509,1357,1152,1861
+Rehberlik Araştırma Merkezi,YAYGIN EGITIM,,MESLEK,,EVET,255,363554,226847,136707,3897,2281,1616,105
+Meslek Kursları (3308 say.yasaya göre),YAYGIN EGITIM,,MESLEK,,EVET,0,27496,15864,11632,0,0,0,0
+Yetişkinler Teknik Eğitim Merkezi,YAYGIN EGITIM,,MESLEK,,EVET,9,0,0,0,0,0,0,0
+Özel Öğretim Kursları,YAYGIN EGITIM,,MESLEK,,EVET,2479,105688,49938,55750,6158,3437,2721,19375
+Motorlu Taşıt Sürücüleri Kursu,YAYGIN EGITIM,,MESLEK,,EVET,3951,1563812,1037075,526737,25901,18433,7468,12461
+Muhtelif Kurslar,YAYGIN EGITIM,,MESLEK,,EVET,7285,417267,288543,128724,15541,7103,8438,39852
+Özel Eğitim ve Rehabilitasyon Merkezi,YAYGIN EGITIM,,MESLEK,,EVET,2864,384471,241006,143465,29672,9299,20373,43817
+Özel Eğitim Okulu (Yaygın Eğitim),YAYGIN EGITIM,,MESLEK,,EVET,36,3811,2366,1445,0,0,0,0
